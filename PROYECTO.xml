@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alumnos>
+
+  <alumno>
+    <codigo>00242457</codigo>
+    <dni>70642789</dni>
+    <nombre>SALAS QUISPE ANGELES GABRIELA</nombre>
+    <sexo>F</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>01200276</codigo>
+    <dni>73628977</dni>
+    <nombre>MORENO CHAVEZ PEDRO SEBASTIAN</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>00232452</codigo>
+    <dni>77533434</dni>
+    <nombre>PAUCAR LUJAN JENRY KESI</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
   <alumno>
     <codigo>00250466</codigo>
     <dni>72312425</dni>
@@ -7,6 +32,7 @@
     <sexo>M</sexo>
     <seccion>A</seccion>
   </alumno>
+
   <alumno>
     <codigo>00260484</codigo>
     <dni>70698092</dni>
@@ -14,6 +40,7 @@
     <sexo>M</sexo>
     <seccion>A</seccion>
   </alumno>
+
   <alumno>
     <codigo>00234485</codigo>
     <dni>72780138</dni>
@@ -21,6 +48,7 @@
     <sexo>F</sexo>
     <seccion>A</seccion>
   </alumno>
+
   <alumno>
     <codigo>02201264</codigo>
     <dni>72546532</dni>
@@ -28,6 +56,7 @@
     <sexo>M</sexo>
     <seccion>A</seccion>
   </alumno>
+
   <alumno>
     <codigo>01223185</codigo>
     <dni>73528827</dni>
@@ -35,6 +64,7 @@
     <sexo>F</sexo>
     <seccion>A</seccion>
   </alumno>
+
   <alumno>
     <codigo>01265283</codigo>
     <dni>75160285</dni>
@@ -42,6 +72,79 @@
     <sexo>M</sexo>
     <seccion>A</seccion>
   </alumno>
+
+  <alumno>
+    <codigo>00278270</codigo>
+    <dni>72900501</dni>
+    <nombre>VÁSQUEZ FALCÓN RENZO</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>00246402</codigo>
+    <dni>75425940</dni>
+    <nombre>SILVA MONTALBAN ANDERSON GABRIEL</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>01204257</codigo>
+    <dni>72713075</dni>
+    <nombre>RODRIGUEZ CASTRO EDUARDO FABIAN</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>00272425</codigo>
+    <dni>77196030</dni>
+    <nombre>PIE OBREGÓN GIANFRANCO STEVEN</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>02216164</codigo>
+    <dni>77083430</dni>
+    <nombre>VALDERA PEREDA ANTONY WILLIAM</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>01272251</codigo>
+    <dni>71292949</dni>
+    <nombre>TENORIO MORENO FRANK ALEXANDER</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>00262419</codigo>
+    <dni>70903929</dni>
+    <nombre>VILLAFUERTE SIERRA JOSE ANTONIO</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>00248447</codigo>
+    <dni>61868210</dni>
+    <nombre>RUIZ ISMINIO MAYER FRANCO</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
+  <alumno>
+    <codigo>00233456</codigo>
+    <dni>74941292</dni>
+    <nombre>FIESTAS CUMPA RENZO OMAR</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+
 </alumnos>
 
 
