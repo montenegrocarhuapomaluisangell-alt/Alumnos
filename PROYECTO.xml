@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+  <alumno>
+    <codigo>00250466</codigo>
+    <dni>72312425</dni>
+    <nombre>SANTISTEBAN GONZALES MARIO JAVIER</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+  <alumno>
+    <codigo>00260484</codigo>
+    <dni>70698092</dni>
+    <nombre>MONTENEGRO CARHUAPOMA LUIS ANGELLO</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+  <alumno>
+    <codigo>00234485</codigo>
+    <dni>72780138</dni>
+    <nombre>FERNANDEZ CASTRO GIANELLA KORAYMA</nombre>
+    <sexo>F</sexo>
+    <seccion>A</seccion>
+  </alumno>
+  <alumno>
+    <codigo>02201264</codigo>
+    <dni>72546532</dni>
+    <nombre>TAMAYO AQUITUARI EDU ARVILDO</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+  <alumno>
+    <codigo>01223185</codigo>
+    <dni>73528827</dni>
+    <nombre>HUAURA RIOS LEYLA MABEL</nombre>
+    <sexo>F</sexo>
+    <seccion>A</seccion>
+  </alumno>
+  <alumno>
+    <codigo>01265283</codigo>
+    <dni>75160285</dni>
+    <nombre>LOZANO HEREDIA JHON ALEXIS</nombre>
+    <sexo>M</sexo>
+    <seccion>A</seccion>
+  </alumno>
+</alumnos>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
